@@ -75,8 +75,8 @@ module jkff(j, k, clk, rst, q, qbar);
         	 end	
 	         endmodule
 
-JK FLIPFLOP:
-LOGIC DIAGRAM:
+
+
 <img width="978" height="320" alt="Screenshot 2025-12-05 093552" src="https://github.com/user-attachments/assets/1a3cf2ff-97b3-4d76-a1fb-dbf6167f8fd6" />
 
 
